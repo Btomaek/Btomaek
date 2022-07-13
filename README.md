@@ -1,0 +1,5 @@
+- Hi, I’m @Btomaek
+- I’m interested in games/3d
+- I’m currently learning code in unity
+- I’m looking to collaborate on p
+- How to reach me twitter
