@@ -1,4 +1,5 @@
 - Hi, I’m @Btomaek
+- she/her 
 - I’m interested in games/3d
 - I’m currently learning code in unity
 - I’m looking to collaborate on p, just the letter
