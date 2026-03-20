@@ -1,4 +1,4 @@
-- Hi, I’m @Btomaek
+- Hi, I’m @Btomaek or "Tia" due to 🏳️‍⚧️
 - she/her 
 - I’m interested in games/3d
 - I’m currently learning code in unity
