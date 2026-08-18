@@ -1,9 +1,10 @@
-- Hi, I’m @Btomaek or "Tia" due to 🏳️‍⚧️
-- she/her 
+- Hi, I’m Tia
+- she/her 🏳️‍⚧️
 - I’m interested in games/3d
 - I’m currently learning code in unity
 - I’m looking to collaborate on p, just the letter
 - How to reach me: N/A
+- a Dreg on the interwebs
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4506F1)
