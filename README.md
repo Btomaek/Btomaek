@@ -7,4 +7,6 @@
 - a Dreg on the interwebs
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4506F1) [![patron](https://github.com/codebard/patron-button-and-widgets-by-codebard/blob/master/images/become_a_patron_button.png)](https://www.patreon.com/cw/TiaPink)
+[![ko-fi](https://github.com/Tiadreg/tiadreg/blob/main/ko-fi%20button.svg)](https://ko-fi.com/Q5Q4506F1) [![patron](https://github.com/Tiadreg/tiadreg/blob/main/Patreon%20button.svg)](https://www.patreon.com/cw/TiaPink)
+
+//https://ko-fi.com/img/githubbutton_sm.svg
